@@ -1,7 +1,7 @@
-# hipercow-tlomodel
+# hipercow-tlo
 
-[![PyPI - Version](https://img.shields.io/pypi/v/hipercow-tlomodel.svg)](https://pypi.org/project/hipercow-tlomodel)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hipercow-tlomodel.svg)](https://pypi.org/project/hipercow-tlomodel)
+[![PyPI - Version](https://img.shields.io/pypi/v/hipercow-tlo.svg)](https://pypi.org/project/hipercow-tlo)
+[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/hipercow-tlo.svg)](https://pypi.org/project/hipercow-tlo)
 
 -----
 
@@ -13,9 +13,9 @@
 ## Installation
 
 ```console
-pip install hipercow-tlomodel
+pip install hipercow-tlo
 ```
 
 ## License
 
-`hipercow-tlomodel` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
+`hipercow-tlo` is distributed under the terms of the [MIT](https://spdx.org/licenses/MIT.html) license.
